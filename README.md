@@ -5,26 +5,21 @@ Soy un estudiante apasionado por el desarrollo de software y aplicaciones movile
 
 ## 🛠️ Habilidades Técnicas
 ### Lenguajes de Programación
-- 💻 Java | Kotlin | Python | SQL
-
+- 💻 Java | Kotlin | SQL
+- 
 ### Frameworks y Herramientas
-- ⚡ IntelIJ | Android Studio
+- ⚡ IntelIJ | Android Studio | Apache NetBeans
 - 🛢️ MySQL Workbench
 - 🔧 VMWare
 
-## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github.com/DanielGallegoM10)
-
 ## 🌟 Proyectos Destacados
-### AppIncidencias ()
+### Proximamente...
 Breve descripción del proyecto, tecnologías utilizadas y su impacto.
 
-### [Nombre del Proyecto 2](link-al-proyecto)
+### Proximamente...
 Breve descripción del proyecto, tecnologías utilizadas y su impacto.
 
 ## 🎯 Logros Profesionales
-- 🏆 [Logro significativo 1]
-- 🌟 [Logro significativo 2]
 - 📚 Diploma de honor 1ºDAW
 
 ## 📚 Educación
@@ -32,30 +27,19 @@ Breve descripción del proyecto, tecnologías utilizadas y su impacto.
   IES Virrey Morcillo, 2023
 
 ## 💼 Experiencia Profesional
-### [Empresa Actual]
-**[Puesto]** *(Fecha inicio - Presente)*
-- Logro principal 1
-- Logro principal 2
-
-### [Empresa Anterior]
-**[Puesto]** *(Fecha inicio - Fecha fin)*
-- Logro principal 1
-- Logro principal 2
+Actualmente no he trabajado de ello.
 
 ## 📫 Contacto
-- 📧 Email: [tu@email.com]
-- 🔗 LinkedIn: [tu-perfil-linkedin]
-- 🐦 Twitter: [@tu_usuario]
-- 🌐 Sitio Web: [tu-sitio-web.com]
+- 📧 Email: danielgallegom10@gmail.com
+- 🔗 LinkedIn: Daniel Gallego Monedero
 
 ## 🌱 Actualmente Aprendiendo
-- [Nueva tecnología o habilidad 1]
-- [Nueva tecnología o habilidad 2]
+- Python
 
 ## 👯 Colaboraciones
 Estoy interesado en colaborar en proyectos relacionados con:
-- [Área de interés 1]
-- [Área de interés 2]
+- Desarrollo Software
+- Desarrollo Android e IOS
 
 ---
-⭐️ De [Tu Nombre](https://github.com/TuUsuario)
+⭐️ De Daniel Gallego (https://github.com/DanielGallegoM10)
