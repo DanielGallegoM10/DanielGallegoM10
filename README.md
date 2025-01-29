@@ -1,7 +1,10 @@
 # ¡Hola! 👋 Soy Daniel Gallego
 
 ## 🚀 Acerca de mí
-Soy un estudiante apasionado por el desarrollo de software y aplicaciones moviles.
+Actualmente soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM). 
+Fascinado por el mundo de la programación, soy resolutivo y trato de encontrar soluciones lógicas a los distintos problemas planteados en cada programa.
+Me ha llamado la atención siempre buscar soluciones de forma eficiente.
+En este momento estoy en busca de realizar prácticas del propio grado superior, para comenzar a desarrollarme y aprender profesionalmente, con la finalidad de trabajar en el sector después del periodo de prácticas.
 
 ## 🛠️ Habilidades Técnicas
 ### Lenguajes de Programación
