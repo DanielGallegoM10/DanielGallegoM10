@@ -41,8 +41,8 @@ Este proyecto está en desarrollo y perfección, de momento solo desarrollado en
   IES Virrey Morcillo, 2025
 
 ## 💼 Experiencia Profesional
-Global Alquemy (Albacete) / Practicas DAM (Marzo 2025 a Junio 2025)
-Global Alquemy (Albacete) / Trabajo (Junio 2025 hasta ahora)
+- Global Alquemy (Albacete) / Practicas DAM (Marzo 2025 a Junio 2025)
+- Global Alquemy (Albacete) / Trabajo (Junio 2025 hasta ahora)
 
 ## 📫 Contacto
 - 📧 Email: danielgallegom10@gmail.com
